@@ -15,6 +15,19 @@
 
 - 📫 How to reach me **sravanithoomu1999@gmail.com**
 
+## Tools and Languages
+
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Projects
+
+- [Bank Loan Analysis](https://github.com/sravani-thoomu): An analysis project providing comprehensive insights into business operations.
+- [BlinkIt](https://github.com/sravani-thoomu): Grocery and Ecommerce data analysis.
+- [Credit Card Transaction Analysis](https://github.com/sravani-thoomu): An analysis project providing comprehensive insights into business operations.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/t-sravani-07602a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-sravani-07602a236/" height="30" width="40" /></a>
@@ -29,3 +42,6 @@
 </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sravani-thoomu&show_icons=true&locale=en&layout=compact" alt="sravani-thoomu" /></p>
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+
