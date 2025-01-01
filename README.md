@@ -23,9 +23,15 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ## Projects
 
-- [Bank Loan Analysis](https://github.com/sravani-thoomu): An analysis project providing comprehensive insights into business operations.
-- [BlinkIt](https://github.com/sravani-thoomu): Grocery and Ecommerce data analysis.
-- [Credit Card Transaction Analysis](https://github.com/sravani-thoomu): An analysis project providing comprehensive insights into business operations.
+- [Bank Loan Analysis](https://github.com/sravani-thoomu/bank-loan-analysis/blob/main/FULL%20BANK%20LOAN%20REPORTS.pdf): This dashboard provides an interactive view of bank loan data, enabling stakeholders to gain insights into key performance indicators (KPIs), trends, and make data-driven decisions to optimize lending operations.
+
+- [BlinkIt]([https://github.com/sravani-thoomu](https://github.com/sravani-thoomu/blinkit/blob/main/Blinkit%20Power%20Bi%20Project.pdf)): The Blink It Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales data for Blink It, a retail grocery business.
+
+- [Credit Card Transaction Analysis](https://github.com/sravani-thoomu/credit-cards/blob/main/Credit_Card_Report%20Full%20Report.pdf):  The dashboard designed to provide actionable business intelligence across credit card transactions and customer data.
+
+- [Call Center Data Analysis](https://github.com/sravani-thoomu/call-center-data-analysis/blob/main/Excel%20Full%20Project%20.pdf.pdf): The Call Center Dashboard - 2023 provides a comprehensive view of call center performance for the year 2023. It tracks key metrics such as call volume, call duration, agent performance, and customer satisfaction.
+
+- [Hospital Emergency Room Data Analysis](https://github.com/sravani-thoomu/Hospital-emergency-room-analysis/blob/main/Hospital%20Emergency%20Room%20%20full%20report.pdf): This dashboard provides a real-time overview of key performance indicators (KPIs) related to emergency room operations.
 
 
 <h3 align="left">Connect with me:</h3>
