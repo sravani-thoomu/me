@@ -25,7 +25,7 @@
 
 - [Bank Loan Analysis](https://github.com/sravani-thoomu/bank-loan-analysis/blob/main/FULL%20BANK%20LOAN%20REPORTS.pdf): This dashboard provides an interactive view of bank loan data, enabling stakeholders to gain insights into key performance indicators (KPIs), trends, and make data-driven decisions to optimize lending operations.
 
-- [BlinkIt]([https://github.com/sravani-thoomu](https://github.com/sravani-thoomu/blinkit/blob/main/Blinkit%20Power%20Bi%20Project.pdf)): The Blink It Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales data for Blink It, a retail grocery business.
+- [BlinkIt](https://github.com/sravani-thoomu/blinkit/blob/main/Blinkit%20Power%20Bi%20Project.pdf): The Blink It Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales data for Blink It, a retail grocery business.
 
 - [Credit Card Transaction Analysis](https://github.com/sravani-thoomu/credit-cards/blob/main/Credit_Card_Report%20Full%20Report.pdf):  The dashboard designed to provide actionable business intelligence across credit card transactions and customer data.
 
